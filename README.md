@@ -1,7 +1,7 @@
 # Análisis Exploratorio de Vehículos BMW
 
 ## Objetivo
-Analizar los factores que influyen en el precio, eficiencia y depreciación de vehículos BMW utilizando Excel y Google Sheets.
+Analizar los factores que influyen en el precio, eficiencia y depreciación de vehículos BMW utilizando Excel y subiendo los datos a google sheet.
 
 ## Herramientas
 - Excel (tablas dinámicas, gráficos, análisis exploratorio)
