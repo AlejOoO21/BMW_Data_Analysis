@@ -1,6 +1,3 @@
-# BMW_Data_Analysis
-Proyecto para análisis de datos sobre autos BMW.
-
 # Análisis Exploratorio de Vehículos BMW
 
 ## Objetivo
@@ -8,19 +5,11 @@ Analizar los factores que influyen en el precio, eficiencia y depreciación de v
 
 ## Herramientas
 - Excel (tablas dinámicas, gráficos, análisis exploratorio)
-- Google Sheets (almacenamiento en la nube y visualización)
-- GitHub (documentación del proyecto)
-
-## Preguntas analizadas
-- ¿Cómo varía el precio según el año de fabricación?
-- ¿Cuál es la relación entre kilometraje y precio?
-- ¿Qué tipo de combustible ofrece mejor eficiencia?
-- ¿La transmisión automática se asocia a modelos más recientes?
+- Google Sheets (almacenamiento en la nube y visualización
 
 ## Principales hallazgos
-- Existe una relación negativa entre kilometraje y precio.
+- Existe una relación positiva entre kilometraje y precio.
 - Los modelos más recientes presentan mayor proporción de transmisiones automáticas.
 - El combustible híbrido presenta mayor eficiencia, pero con mayor precio promedio.
 
-## Visualizaciones
-(Incluir capturas del dashboard)
+  <img width="1193" height="687" alt="image" src="https://github.com/user-attachments/assets/ef153a59-d6a3-41d4-86ca-75812864bfbf" />
