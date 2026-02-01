@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Vehículos BMW
+<h1>Análisis Exploratorio de Vehículos BMW</h1>
 
 ## Objetivo
 Analizar los factores que influyen en el precio, eficiencia y depreciación de vehículos BMW utilizando Excel y subiendo los datos a google sheet.
@@ -13,3 +13,5 @@ Analizar los factores que influyen en el precio, eficiencia y depreciación de v
 - El combustible híbrido presenta mayor eficiencia, pero con mayor precio promedio.
 
   <img width="1193" height="687" alt="image" src="https://github.com/user-attachments/assets/ef153a59-d6a3-41d4-86ca-75812864bfbf" />
+
+
